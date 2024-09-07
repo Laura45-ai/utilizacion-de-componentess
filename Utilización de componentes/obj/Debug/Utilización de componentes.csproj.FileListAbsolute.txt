@@ -1,0 +1,32 @@
+C:\Utilización de componentes\Utilización de componentes\bin\Debug\Utilización de componentes.exe.config
+C:\Utilización de componentes\Utilización de componentes\bin\Debug\Utilización de componentes.exe
+C:\Utilización de componentes\Utilización de componentes\bin\Debug\Utilización de componentes.pdb
+C:\Utilización de componentes\Utilización de componentes\bin\Debug\Interop.WMPLib.dll
+C:\Utilización de componentes\Utilización de componentes\bin\Debug\AxInterop.WMPLib.dll
+C:\Utilización de componentes\Utilización de componentes\obj\Debug\Utilización de componentes.csproj.AssemblyReference.cache
+C:\Utilización de componentes\Utilización de componentes\obj\Debug\Interop.WMPLib.dll
+C:\Utilización de componentes\Utilización de componentes\obj\Debug\AxInterop.WMPLib.dll
+C:\Utilización de componentes\Utilización de componentes\obj\Debug\Utilización de componentes.csproj.ResolveComReference.cache
+C:\Utilización de componentes\Utilización de componentes\obj\Debug\Utilización_de_componentes.Form1.resources
+C:\Utilización de componentes\Utilización de componentes\obj\Debug\Utilización_de_componentes.Properties.Resources.resources
+C:\Utilización de componentes\Utilización de componentes\obj\Debug\Utilización de componentes.csproj.GenerateResource.cache
+C:\Utilización de componentes\Utilización de componentes\obj\Debug\Utilización de componentes.csproj.CoreCompileInputs.cache
+C:\Utilización de componentes\Utilización de componentes\obj\Debug\Utilización de componentes.exe
+C:\Utilización de componentes\Utilización de componentes\obj\Debug\Utilización de componentes.pdb
+C:\Utilización de componentes\Utilización de componentes\obj\Debug\Utilización_de_componentes.WMP.resources
+C:\Utilización de componentes\Utilización de componentes\bin\Debug\PdfiumViewer.dll
+C:\Utilización de componentes\Utilización de componentes\bin\Debug\PdfiumViewer.xml
+C:\Utilización de componentes\Utilización de componentes\bin\Debug\nl\PdfiumViewer.resources.dll
+C:\Utilización de componentes\Utilización de componentes\obj\Debug\Utilización_de_componentes.PDF.resources
+C:\Utilización de componentes\Utilización de componentes\obj\Debug\Utilizac.D0104FB1.Up2Date
+C:\Utilización de componentes\Utilización de componentes\bin\Debug\DL180PDFlattener.ppi
+C:\Utilización de componentes\Utilización de componentes\bin\Debug\DL180PDFProcessor.ppi
+C:\Utilización de componentes\Utilización de componentes\bin\Debug\DL180XPS2PDF.ppi
+C:\Utilización de componentes\Utilización de componentes\bin\Debug\DL180pdfsettings.dll
+C:\Utilización de componentes\Utilización de componentes\bin\Debug\DL180PDFPort.dll
+C:\Utilización de componentes\Utilización de componentes\bin\Debug\fpdfconversionsdk_c_win64.dll
+C:\Utilización de componentes\Utilización de componentes\bin\Debug\Adobe.PDF.Library.LM.NET.targets
+C:\Utilización de componentes\Utilización de componentes\bin\Debug\x64\pdfium.dll
+C:\Utilización de componentes\Utilización de componentes\bin\Debug\x86\pdfium.dll
+C:\Utilización de componentes\Utilización de componentes\bin\Debug\de\PdfiumViewer.resources.dll
+C:\Utilización de componentes\Utilización de componentes\obj\Debug\Utilización_de_componentes.IE.resources
